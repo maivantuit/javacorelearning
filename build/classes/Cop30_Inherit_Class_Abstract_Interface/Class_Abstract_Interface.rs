@@ -1,0 +1,4 @@
+Cop30_Inherit_Class_Abstract_Interface.Class_Abstract_Interface
+Cop30_Inherit_Class_Abstract_Interface.Studen
+Cop30_Inherit_Class_Abstract_Interface.Employee
+Cop30_Inherit_Class_Abstract_Interface.Person

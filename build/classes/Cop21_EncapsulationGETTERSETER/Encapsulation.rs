@@ -1,0 +1,2 @@
+Cop21_EncapsulationGETTERSETER.SinhVien
+Cop21_EncapsulationGETTERSETER.Encapsulation

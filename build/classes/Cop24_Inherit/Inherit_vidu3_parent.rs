@@ -1,0 +1,2 @@
+Cop24_Inherit.child
+Cop24_Inherit.Inherit_vidu3_parent

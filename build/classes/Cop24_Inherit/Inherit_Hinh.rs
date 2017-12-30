@@ -1,0 +1,6 @@
+Cop24_Inherit.HinhDagiac
+Cop24_Inherit.HinhTron
+Cop24_Inherit.HinhChuNhat
+Cop24_Inherit.HinhTamGiac
+Cop24_Inherit.HinhVuong
+Cop24_Inherit.Inherit_Hinh

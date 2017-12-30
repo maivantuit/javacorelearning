@@ -1,0 +1,4 @@
+Cop41_Annotation.AnnotationClassField$Student
+Cop41_Annotation.Hibernate_Filed
+Cop41_Annotation.Hibernate_Table
+Cop41_Annotation.AnnotationClassField
